@@ -18,3 +18,5 @@ elif input >= 50:
     print("D")
 else:
     print("F")
+
+print("Thank you for using the grading program!")
