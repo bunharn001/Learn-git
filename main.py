@@ -19,6 +19,12 @@ elif input >= 50:
 else:
     print("F")
 
-#กายทำเองจ้าาาาาาาาาาา
-output = input * 4 / 2
-print("Output:", output)
+
+input_Math = int(input("Enter Math grade score: "))
+input_Sci = int(input("Enter Science grade score: "))
+input_Eng = int(input("Enter English grade score: "))
+input_Thai = int(input("Enter Thai grade score: "))
+input_Soc = int(input("Enter Social grade score: "))
+
+average = (input_Math + input_Sci + input_Eng + input_Thai + input_Soc) / 5
+print("Average grade score:", average)
