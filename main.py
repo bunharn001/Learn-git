@@ -28,3 +28,5 @@ input_Soc = int(input("Enter Social grade score: "))
 
 average = (input_Math + input_Sci + input_Eng + input_Thai + input_Soc) / 5
 print("Average grade score:", average)
+
+#it's done bro. it's done.
