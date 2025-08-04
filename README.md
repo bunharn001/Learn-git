@@ -4,4 +4,5 @@ Tanapat Bunharn
 Sudkhet inyoo akak noodleman
 Jirawat Chanpeungsuk
 Piyawan Ruayruen
-Rusrawee Teesee
+Rusrawee Teeseegit 
+Thitisak Phumiphiraphon
